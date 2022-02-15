@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app=Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI']='postgresql://postgres:sergine@localhost:5432/api_project'
+#app.config['SQLALCHEMY_DATABASE_URI']='postgresql://postgres:sergine@localhost:5432/api_project'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db=SQLAlchemy(app)
 CORS(app)

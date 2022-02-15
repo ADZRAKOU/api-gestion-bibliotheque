@@ -3,7 +3,7 @@ Cette API permet de gérer des livres classer par categorie
 
 Installing Dependencies
 Python 3.10
-pip 22.0.3 from  ..\AppData\Local\Programs\Python\Python310\Lib\site-packages\pip (Python 3.10)
+pip 22.0.3 from ..AppData\Local\Programs\Python\Python310\Lib\site-packages\pip (Python 3.10)
 Si python n'est pas installé sur votre machine, telecharger le via ce lien python docs
 
 Dépendances de PIP

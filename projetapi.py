@@ -308,3 +308,5 @@ def not_found(error):
         "message": "Mauvaise requete"
         }), 400
 
+if __name__ == '__main__':
+    app.run()
